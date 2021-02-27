@@ -5,8 +5,8 @@
  # --------------------------------------------
  
  * Wireframe
-    * Homepage desktop - [view]("wireframe/desktop/homepage.png")
-    * Homepage mobile - [view]("wireframe/mobile/homepage.png")
+    * Homepage desktop - [view](wireframe/desktop/homepage.png)
+    * Homepage mobile - [view](wireframe/mobile/homepage.png)
 
 
 
