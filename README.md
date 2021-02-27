@@ -7,6 +7,7 @@
  * Wireframe
     * Homepage desktop - [view](wireframe/desktop/homepage.png)
     * Homepage mobile - [view](wireframe/mobile/homepage.png)
+    * Homepage tablet - [view](wireframe/tablet/homepage.png)
 
 
 
