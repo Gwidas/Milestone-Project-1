@@ -9,8 +9,15 @@
     * Homepage mobile - [view](wireframe/mobile/homepage.png)
     * Homepage tablet - [view](wireframe/tablet/homepage.png)
 
+# --------------------------------------------
 
+ * Features
+   * Resposive on all devices
+   * Interective elements
+   * Animated homepage
 
+   
+ 
 
 
 
