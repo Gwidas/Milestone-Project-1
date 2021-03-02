@@ -3,24 +3,43 @@ body, html {
 }
 
 .bg {
-  /* The image used */
+  
   background-image: url("../images/DSC00995.jpg");
 
-  /* Full height */
+  
   height: 100%;
 
-  /* Center and scale the image nicely */
+  
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
+/* -------Header------------- */
 
 .transparent-bg{
-    background-color: #ffffff;
-    opacity: 45%;
+    background-color:rgba(255, 255, 255, 0.5);
+    
+    
 }
 
 li {
     list-style-type: none;
+}
+
+/* -------footer------------- */
+
+
+.icon-color{
+    color: rgb(19, 18, 18);
+    padding-top: 0.5em;
+}
+
+#spacer {
+    height: 42em;
+    display: inline-block;
+}
+
+.li-alignment {
+    text-align: center;
 }
 
