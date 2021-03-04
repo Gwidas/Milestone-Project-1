@@ -10,37 +10,49 @@
 
 * User stories 
 
-      * First Time Visitor Goals
+       First Time Visitor Goals
            
-           a. As an individual who has interest in motorcycle industry and photography, I want to experience artistic approach to this industry.
-           b. As an individual who has interest in motorcycle industry and photography, I want to see easy meniu selection and understandable layout.
-           c. As an individual who has interest in motorcycle industry and photography, I want to see visual presentations of motorcycle.
-           d. As an individual who has interest in motorcycle industry and photography, I want to see the source of your experience, trusted links like soclia media and involvement in the culture.
-           e. As an individual who has interest in motorcycle industry and photography, I want to see what gear been used to take pictures. 
+        a. As an individual who has interest in motorcycle industry and photography, I want to experience artistic approach to this industry.
+        b. As an individual who has interest in motorcycle industry and photography, I want to see easy meniu selection and understandable layout.
+        c. As an individual who has interest in motorcycle industry and photography, I want to see visual presentations of motorcycle.
+        d. As an individual who has interest in motorcycle industry and photography, I want to see the source of your experience, trusted links like soclia media and involvement in the culture.
+        e. As an individual who has interest in motorcycle industry and photography, I want to see what gear been used to take pictures. 
 
-      * Returning Visitor Goals
+       Returning Visitor Goals
 
-           a. I want to find relevent infomation about events and meeting places.
-           b. I want to find most sutible way to get in touch if I have any questions.
-           c. I want to find links that I can benefit from.
-           d. I want to find new information about events. 
+        a. I want to find relevent infomation about events and meeting places.
+        b. I want to find most sutible way to get in touch if I have any questions.
+        c. I want to find links that I can benefit from.
+        d. I want to find new information about events. 
            
 
-      * Frequent User Goals 
+       Frequent User Goals 
 
-           a. I want to check for updated pcitures with different models.
-           b. I want to find new links for relevent events
-           c. I want to find tips on photography gear.
-           e. I want to check for updated culture and where the events tale place. 
+        a. I want to check for updated pcitures with different models.
+        b. I want to find new links for relevent events
+        c. I want to find tips on photography gear.
+        e. I want to check for updated culture and where the events tale place. 
+
+       Owners site goals
+
+        a. Deliver users understadning of passion for motorcycles and photography.
+        b. Connect people whos has same interested in that field.
+        c. Show image owner capabilities.
+        d. Show life style of motorcycle enthusiast.
+        
 
 
 
 
 
+ # Imagery
 
- 
- 
- 
+        The homepage background image is created with color burst for good visual expereince.
+        
+        All imagery was taking by website owner.
+
+
+        
  
  
  # --------------------------------------------
@@ -69,6 +81,9 @@
  
 # --------------------------------------------
 
+# Frameworks, Libraries & Programs Used
+
+    
 
 
 
