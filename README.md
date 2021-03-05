@@ -20,7 +20,7 @@
 
 ## Returning Visitor Goals
 
-*I want to find relevent infomation about events and meeting places.
+* I want to find relevent infomation about events and meeting places.
 * I want to find most sutible way to get in touch if I have any questions.
 * I want to find links that I can benefit from.
 * I want to find new information about events. 
