@@ -53,11 +53,15 @@ li {
     text-align: center;
 }
 
+.bg-color {
+    background-color: gray;
+}
+
 /* -------rider------------- */
 
 #photo {
     width: 100%;
-  height: auto;
+    height: auto;
 }
 
 /* -------contact.html------------- */
@@ -67,7 +71,7 @@ li {
 }
 
 .img-position-1 {
-    padding-top: 10em;
+    margin-top: 10em;
     border-style: groove;
     border-radius: 1em;
     box-sizing: border-box;
@@ -84,3 +88,4 @@ li {
     font-family: 'Dancing Script', cursive;
     font-size: 20px;
 }
+
