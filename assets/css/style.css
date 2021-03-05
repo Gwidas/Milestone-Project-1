@@ -72,12 +72,12 @@ li {
 
 .img-position-1 {
     margin-top: 10em;
-    border-style: groove;
-    border-radius: 1em;
-    box-sizing: border-box;
+    
+    border-radius: 5px;
+    
     width: 38em;
     height: 25em;
-    padding: 10px;  
+     
   
     
 }
@@ -89,3 +89,6 @@ li {
     font-size: 20px;
 }
 
+.img-shadow {
+    box-shadow: 10px 10px 5px rgb(46, 45, 45);
+}
