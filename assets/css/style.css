@@ -33,7 +33,7 @@ body, html {
     
     
 }
-
+/* -------Body------------- */
 li {
     list-style-type: none;
 }
@@ -44,12 +44,13 @@ li {
 .background-color-box {
     background-color: white;
     margin: 1em;
-    height: 230px;
+    height: 227px;
     padding: 1em;
     box-sizing: content-box;
     border: solid  5px;
     overflow: scroll;
     overflow-y: auto;
+    
     
     
 }
@@ -73,6 +74,10 @@ li {
     font-family: 'Dancing Script', cursive;
     font-size: 20px;
 }
+
+.con-move {
+    margin-top: 2em;
+}
 /* -------footer------------- */
 
 
@@ -91,7 +96,7 @@ li {
 }
 
 .bg-color {
-    background-color: gray;
+    background-color: rgb(0, 0, 0);
 }
 
 /* -------rider------------- */
@@ -114,18 +119,19 @@ li {
     
     width: 40em;
     height: 25em;
-     
-  
-    
 }
 
 .contact-position {
     margin: 0;
-    padding-top: 4em;
+    padding-top: 1em;
     font-family: 'Dancing Script', cursive;
     font-size: 20px;
 }
 
 .img-shadow {
-    box-shadow: 10px 10px 5px rgb(46, 45, 45);
+    box-shadow: 10px 10px 5px rgb(26, 26, 26);
+}
+
+.text-color {
+    color: antiquewhite;
 }
