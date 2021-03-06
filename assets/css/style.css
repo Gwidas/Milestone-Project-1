@@ -35,7 +35,15 @@ body, html {
 li {
     list-style-type: none;
 }
+.image-padding {
+    padding: 1em;
+}
 
+.background-color-box {
+    background-color: white;
+    margin: 1em;
+    height: 100%;
+}
 /* -------footer------------- */
 
 
