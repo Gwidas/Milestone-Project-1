@@ -60,6 +60,12 @@ li {
     font-family: 'Dancing Script', cursive;
     
 }
+
+.font-header {
+    
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+}
 /* -------footer------------- */
 
 
@@ -99,7 +105,7 @@ li {
     
     border-radius: 5px;
     
-    width: 38em;
+    width: 40em;
     height: 25em;
      
   
