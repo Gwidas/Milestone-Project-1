@@ -17,11 +17,13 @@ body, html {
 
 .homepage-text {
     position: absolute;
-    top: 5em;
-    right: 10em;
+    top: 3em;
+    right: 14em;
     font-family: 'Dancing Script', cursive;
-    font-size: 35px;
+    font-size: 30px;
 }
+
+
 
 
 /* -------Header------------- */
@@ -52,6 +54,11 @@ li {
 
 .picture-move {
     margin: 9em;
+}
+
+#font-type {
+    font-family: 'Dancing Script', cursive;
+    
 }
 /* -------footer------------- */
 
