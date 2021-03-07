@@ -73,6 +73,7 @@ li {
 #font-type {
     font-family: 'Dancing Script', cursive;
     
+    
 }
 
 .font-header {
@@ -87,6 +88,7 @@ li {
 
 #text-family {
     font-family: 'Dancing Script', cursive;
+    font-size: 20px;
 }
 /* -------footer------------- */
 
