@@ -57,9 +57,9 @@
  # --------------------------------------------
  
  ## Wireframe
-    * Homepage desktop - [view](wireframe/desktop/homepage.png)
-    * Homepage mobile - [view](wireframe/mobile/homepage.png)
-    * Homepage tablet - [view](wireframe/tablet/homepage.png)
+* Homepage desktop - [view](wireframe/desktop/homepage.png)
+* Homepage mobile - [view](wireframe/mobile/homepage.png)
+* Homepage tablet - [view](wireframe/tablet/homepage.png)
 
 # --------------------------------------------
 
@@ -86,10 +86,22 @@
    * Bootstrap was used to make better responsiveness and styling of the website.
 
 2. [Google Fonts](https://fonts.google.com/)
-    * Google Fonts was used to import ------- font in the style.css file witch is used to all pages.
+    * Google Fonts was used to import Dancing Script, cursive font in the style.css file witch is used to all pages.
 
+3. [Git](https://git-scm.com/)
+    * Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 
+4. [GitHub](https://github.com/)
+    * GitHub is used to store the projects code after being pushed from Git.
+
+5. [Photoshop](https://www.adobe.com/ie/products/photoshop.html)
+    * Photoshop was used to re-size the images and editing photos.
+
+6. [Balsamiq](https://balsamiq.com/)
+    * Balsamiq was used to creat wireframes during design process.
     
+
+# Testing 
 
 
 

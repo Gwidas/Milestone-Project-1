@@ -162,6 +162,7 @@ li {
         
     }
     .con-move {
-        column-count: 4;
+        width: 100%;
+        
     }
 }
