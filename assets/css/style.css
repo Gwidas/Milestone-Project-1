@@ -35,10 +35,6 @@ body, html {
 }
 
 
-.container-fluid {
-    display: flex;
-    align-items: center;
-}
 
 .navbar-toggler-icon {
     display: none;
@@ -134,7 +130,7 @@ li {
 /* -------contact.html------------- */
 
 .img-position {
-    padding-top: 7em;
+    padding-top: 8em;
 }
 
 .img-position-1 {
