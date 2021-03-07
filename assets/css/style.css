@@ -148,3 +148,20 @@ li {
     color: antiquewhite;
 }
 
+@media only screen and (max-width:943px) {
+    .img-mobile {
+        height: 45px;
+        padding: 0;
+        
+    }
+    .no-display {
+        display: none;
+    }
+    .in-line {
+        inline-size: 6em;
+        
+    }
+    .con-move {
+        column-count: 4;
+    }
+}
