@@ -160,45 +160,8 @@ ul {
     padding: 0;
 }
 
-@media only screen and (max-width:934px) {
-    .img-mobile {
-        height: 45px;
-        padding: 0;
-        
-    }
-    .container-fluid {
-        flex-direction: column;
-        align-items: flex-start;
-    }
+/* ----------------------------------------Media Queries */
 
-    li {
-        display: block;
-        text-align: center;
-        padding: 1.5rem;
-    }
 
-    nav {
-        width: 100%;
-        height: 0;
-        overflow: hidden;
-    }
-
-    .navbar-toggler-icon {
-        display: block;
-    }
-
-    #navbar {
-        display: block !important;
-    }
-    .no-display {
-        display: none;
-    }
-    .in-line {
-        inline-size: 6em;
-        
-    }
-    .con-move {
-        width: 100%;
-        align-items: center;
-    }
-}
+    
+  

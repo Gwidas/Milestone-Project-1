@@ -1,3 +1,9 @@
+
+
+## This project is unfinished...
+
+
+
 # Vision of two wheels
 
  ### I want to show you my vision and passion trough photography, motorcycles and its comunity. On this web page you will see different motorcycle builds, daily life of people who share the same passion.
@@ -101,7 +107,7 @@
     * Balsamiq was used to creat wireframes during design process.
     
 
-# Testing 
+## This project is unfinished...
 
 
 
